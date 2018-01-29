@@ -1,0 +1,18 @@
+,501,502,503
+City,Asansol,Asansol,Asansol
+Client_Name,Pratik Bansal,Simarjit Gandhi,G B Gupta
+Phone_Number,9647616532,9570109807,9999999999
+Street,"Bansal Bhawan, G.T. Road, Kumarpur","Lucas Estate, Durgamandir",Sreepally
+prod,"                 0     1     2
+Price           50    38    20
+Product     Bottle  Milk  Dahi
+Quantity         0     0     1
+product_id    1002  1001  1003","               0       1
+Price         20     260
+Product     Dahi  Paneer
+Quantity       4       5
+product_id  1003    1004","               0
+Price         38
+Product     Milk
+Quantity       0
+product_id  1001"
