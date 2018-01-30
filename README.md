@@ -1,7 +1,7 @@
 # Bill-Genrator
 This project is aimed at generating bill in proper invoice format from an excel sheet consisting of the required product and customer details.
 
-## Explaination
+## Explanation
 
 The Project contains a Excel file named as "Paavan Dairy-automated-invoice.xlsx" containg few sheets including:
 
@@ -47,7 +47,7 @@ The Project contains a Excel file named as "Paavan Dairy-automated-invoice.xlsx"
  
  1. The invoice format was first prepared using html and css saved under the filename "Template.html"
  
- 2.   Using Pythons Pandas and DataFrame knowledge, the Customer Details and the Product Details were brought at a same 
+ 2.   Using Python's Pandas and DataFrame, the Customer Details and the Product Details were brought at a same 
       place,i.e A single dataframe was created under the name "Merged_Sheet.csv"
    
  3.  Now the html tags were searched in the html file and the required input was picked from the dataframe created above, to 
@@ -60,4 +60,4 @@ The Project contains a Excel file named as "Paavan Dairy-automated-invoice.xlsx"
   
   ## Result
   Here ,the script("Invoice_Genration_Script.iypnb") was run on "Paavan Dairy-automated-invoice.xlsx" file which created a 
-  folder of the billing date with all the Invoices.
+  folder(2018-01-30) of the name of the billing date with all the Invoices contained inside it.
